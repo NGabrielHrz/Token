@@ -1,0 +1,15 @@
+C:\Users\ekt\OneDrive\Escritorio\Token\bin\Debug\net6.0\Token.exe
+C:\Users\ekt\OneDrive\Escritorio\Token\bin\Debug\net6.0\Token.deps.json
+C:\Users\ekt\OneDrive\Escritorio\Token\bin\Debug\net6.0\Token.runtimeconfig.json
+C:\Users\ekt\OneDrive\Escritorio\Token\bin\Debug\net6.0\Token.dll
+C:\Users\ekt\OneDrive\Escritorio\Token\bin\Debug\net6.0\Token.pdb
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.csproj.AssemblyReference.cache
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.AssemblyInfoInputs.cache
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.AssemblyInfo.cs
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.csproj.CoreCompileInputs.cache
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.dll
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\refint\Token.dll
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.pdb
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\Token.genruntimeconfig.cache
+C:\Users\ekt\OneDrive\Escritorio\Token\obj\Debug\net6.0\ref\Token.dll
