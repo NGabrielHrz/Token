@@ -183,7 +183,7 @@ for (int i = 0; i < palabras.Length; i++)
     //     Tokens[i] = ID;
     // }
 }
-Console.WriteLine("Tokens file was there:");
+Console.WriteLine("The Tokens file was as follows:");
 for (int j = 0; j < Tokens.Length; j++)
 {
     Console.Write(Tokens[j] + " ");
